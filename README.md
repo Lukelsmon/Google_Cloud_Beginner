@@ -44,4 +44,38 @@ Starting learning about Google Cloud in general
 
 
 
+<div align=center>
+  <h2> Eis uma outra pergunta: </h2>
+</div>
+
+<div align=center>
+  <h4> Uma empresa de serviços financeiros está avaliando modelos de implantação em nuvem para sua iniciativa de transformação digital. Eles precisam manter controle rigoroso sobre certos dados regulamentados enquanto aproveitam as capacidades da nuvem para análises e aplicações voltadas para o cliente. Qual modelo de implantação em nuvem melhor atende a esses requisitos? </h4>
+</div>
+
+<p>
+  Opções debatidas:
+</p>
+
+<p>
+  Nuvem hibrida, Nuvem pública, Nuvem privada e Nuvem comunitária
+</p>
+
+<div align=left>
+  <p> Qual opção você marcaria? </p>
+</div>
+
+<p>
+  Saiba que, a resposta correta, é a Nuvem híbrida
+</p>
+
+<p>
+  Pelo simples motivo de que a Nuvem híbrida combina serviços de nuvem pública com infraestrutura privada, assim permitindo que as cargas de trabalho se movam entre os dois ambientes conforme as necessidades e os custos mudam. É ideal para empresas de financeiros, já que permite manter dados regulamentados sensíveis em seu ambiente privado, mantendo controle rigoroso sobre segurança e conformidade. Um exemplo de solução híbrida do Google Cloud é o Anthos, que fornece plataforma e ferramentas consistente em ambientes, permitindo portabilidade de aplicações e gerenciamento unificado.
+</p>
+
+<p>
+  A opção Nuvem privado está incorreta pelo motivo de que não poderia aproveitar todas as capacidades do Google Cloud para análises e aplicações voltadas ao cliente, acabaria limitando a capacidade da empresa de escalar rapidamente e não poder controlar totalmente o controle de dados rigorosos, tais serviços como: IA/ML (Inteligência Artificial / Machine Learning), isto é, dependendo de cada empresa sobre como eles desejam implantar algo para contribuir a empresa, tanto que várias utilizam desse serviço privado do Google Cloud.
+</p>
+
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
