@@ -1,0 +1,72 @@
+<div align=center>
+  <h1> Dados </h1>
+</div>
+
+<h2>Imagine uma empresa que precisa otimizar sua cadeia de suprimentos analisando dados históricos e prevendo padrões futuros de demanda. Eles têm dados em vários formatos de múltiplos sistemas e precisam torná-los acessíveis para analistas de negócios. Qual abordagem do Google Cloud melhor suportaria seus objetivos de transformação de dados?</h2>
+
+<h3>
+  Opções corretas: Arquitetura de data lake com Cloud Storage, Dataproc e BigQuery
+</h3>
+
+<p>
+  E porquê essas são as opções corretas?
+  Arquitetura de data lake com Cloud Storage servindo para dados brutos, Dataproc para processamento e BigQuery para análise
+</p>
+
+<p>
+  Esta abordagem fornece uma solução mais flexível e escalável para diversas necessidades de dados da empresa. O Cloud Storage serve como a base do data lake, armazenando dados brutos em seu formato nativo sem exigir transformação na ingestão, assim preservando as informações originais e acomoda vários tipos de dados de múltiplos sistemas.
+</p>
+<p>
+  O DataProc fornece clusters gerenciados de Hadoop e Spark (são ambientes computacionais em nuvem pré-configurados que processam grandes volumes de dados [Big Data]), podendo transformar esses dados brutos em escala, assim lidando com operações complexas de ETL (Extract, Transform, Load. É um processo de integração de dados usado para coletar informações de várias fontes, padronizá-las e organizá-las em um único repositório central, como um banco de dados ou data warehouse, para análise e tomada de decisões).
+</p>
+<p>
+  Já o BigQuery completa a arquitetura como um data warehouse (É um sistema centralizado voltado para Business Intelligence (BI) e tomada de decisões) sem servidor onde os dados processados podem ser analisados usando SQL, assim permitindo que analistas de negócios executem consultas complexas sem gerenciar infraestrutura. E por fim, data lake é um repositório massivo projetado para armazenar grandes volumes de dados em seu estado original, ou seja, mais flexível que o data warehouse.
+</p>
+
+<h3> E sobre outras opções que estavam "incorretas"? </h3>
+
+<p>
+  Existia opções como Cloud Spanner e Computer Engine, porém, mesmo como opções talvez boas, não é exatamente o que a empresa busca. O Cloud Spanner é um banco de dados globalmente distribuído e muito consistente, que foi projetado para cargas de trabalho transacionais tal qual exigem alta disponibilidade e consistência global, no entanto, não é otimizado para processamento analítico de dados históricos e demasiado caro.
+</p>
+
+<p>
+  E sobre o Computer Engine com a função de executar scripts de análise personalizados exigiria que a empresa construísse e mantivesse uma própria infraestrutura analítica, tal qual adicionaria uma sobrecarga operacional.
+</p>
+
+<p>
+  Além de outras opções como Cloud SQL e App Engine, que já é um caso de maior prejuízo para a empresa. O Cloud SQL é um serviço de banco de dados relacional que teria dificuldades com escala e variedade de dados de uma operação logística global. Somente projetado para cargas de trabalho transacionais. E a respeito do App Engine, construir um painel de análise personalizado exige um grande esforço de desenvolvimento e não forneceria flexibilidade analítica que os analistas de négocios precisam para explorar dados e descobrir novos padrões.
+</p>
+
+
+
+<div align=center>
+  <h2> Eis uma outra pergunta: </h2>
+</div>
+
+<div align=center>
+  <h4> Uma empresa de serviços financeiros está avaliando modelos de implantação em nuvem para sua iniciativa de transformação digital. Eles precisam manter controle rigoroso sobre certos dados regulamentados enquanto aproveitam as capacidades da nuvem para análises e aplicações voltadas para o cliente. Qual modelo de implantação em nuvem melhor atende a esses requisitos? </h4>
+</div>
+
+<p>
+  Opções debatidas:
+</p>
+
+<p>
+  Nuvem hibrida, Nuvem pública, Nuvem privada e Nuvem comunitária
+</p>
+
+<div align=left>
+  <p> Qual opção você marcaria? </p>
+</div>
+
+<p>
+  Saiba que, a resposta correta, é a Nuvem híbrida
+</p>
+
+<p>
+  Pelo simples motivo de que a Nuvem híbrida combina serviços de nuvem pública com infraestrutura privada, assim permitindo que as cargas de trabalho se movam entre os dois ambientes conforme as necessidades e os custos mudam. É ideal para empresas de financeiros, já que permite manter dados regulamentados sensíveis em seu ambiente privado, mantendo controle rigoroso sobre segurança e conformidade. Um exemplo de solução híbrida do Google Cloud é o Anthos, que fornece plataforma e ferramentas consistente em ambientes, permitindo portabilidade de aplicações e gerenciamento unificado.
+</p>
+
+<p>
+  A opção Nuvem privado está incorreta pelo motivo de que não poderia aproveitar todas as capacidades do Google Cloud para análises e aplicações voltadas ao cliente, acabaria limitando a capacidade da empresa de escalar rapidamente e não poder controlar totalmente o controle de dados rigorosos, tais serviços como: IA/ML (Inteligência Artificial / Machine Learning), isto é, dependendo de cada empresa sobre como eles desejam implantar algo para contribuir a empresa, tanto que várias utilizam desse serviço privado do Google Cloud.
+</p>
