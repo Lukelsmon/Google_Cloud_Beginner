@@ -6,6 +6,8 @@
 
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-Beginner-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![Status](https://img.shields.io/badge/Status-Em%20Aprendizado-34A853?style=for-the-badge&logo=bookstack&logoColor=white)](#)
+[![Idioma](https://img.shields.io/badge/Idioma-Português-FBBC05?style=for-the-badge&logo=googletranslate&logoColor=white)](#)
+
 
 </div>
 
