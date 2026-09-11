@@ -16,7 +16,10 @@
 
 > Starting learning about Google Cloud in general
 
-Este repositório documenta minha jornada de aprendizado no **Google Cloud Platform (GCP)**, com perguntas, respostas explicadas e conceitos fundamentais que encontro ao longo dos estudos.
+<div>
+Este repositório documenta minha jornada de aprendizado no **Google Cloud Platform (GCP)**, com perguntas, respostas explicadas e conceitos fundamentais que encontro ao longo dos estudos. E nos arquivos restantes estudarei mais da área de Cybersegurança.
+<img src="https://media.tenor.com/8vUT71MaTrMAAAAi/deltarune-tenna.gif" width="60" height="50" valign="middle">
+</div>
 
 ---
 

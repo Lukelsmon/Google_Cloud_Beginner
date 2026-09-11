@@ -13,7 +13,7 @@
 
 ---
 
-### 📚 Aqui veremos melhor a respeito de Cybersegurança em Google Cloud
+### 📚 Neste arquivo veremos melhor a respeito de Cybersegurança em Google Cloud
 
 >Introdução aos princípios de segurança em computação na nuvem
 
@@ -22,7 +22,7 @@
 
 <div align="left">
 
-Aqui iremos conhecer os princípios essencias de segurança na computação da nuvem, além de informações gerais do ciclo de vida de segurança e conhecer ferramentas do Cloud e mais.
+Iremos conhecer os princípios essencias de segurança na computação da nuvem, além de informações gerais do ciclo de vida de segurança e conhecer ferramentas do Cloud e mais.
 <img src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Symbol.png" width="35" height="35" valign="middle">
 <img src="https://www.gstatic.com/bricks/image/789cd1fa-407a-4d79-86b9-5ded3220e62c.png" width="35" height="35" valign="middle">
 
