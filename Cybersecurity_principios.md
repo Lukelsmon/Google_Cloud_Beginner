@@ -48,14 +48,38 @@ Ferramentas essas como: IaC com o Terraform e VPC utilizando CloudShell.
 
 > 💡 **IaC | VPC | CloudShell**
 >
-> | 🏢 IaC | 🏢 VPC | ☁️ CloudShell
+> | 🏢 IaC | 🌐 VPC | ☁️ CloudShell
 > ---|---|---|
 > | Prática de provisionar e gerenciar recursos de nuvem | Rede virtual privada isolada para seus recursos no Google Cloud | CloudShell é um ambiente de linha de comando gratuito acessado no navegador | 
 > | Máquinas virtuais, redes e bancos de dados | É uma versão virtual de uma rede física de computadores, funcionando como um Data Center isolado e seguro | Oferece uma máquina virtual temporária |
 > | Códigos de infraestrutura ficam salvos em repositórios, evita desvio de configuração (configuration drift) | Fornece a base de rede necessária para conectar e executar recursos como máquinas virtuais (Computer Engine), cluster de contêineres e serviços sem servidor | Um SO Linux (Debian), que vem com a CLI "gcloud" já instaladas |
 > | Ferramentas: Terraform, Google Cloud Deployment Manager e Pulumi | VPC do Google Cloud é um recurso global, e você mesmo pode definir os endereços IP (IPv4 e IPv6) | É gratuito para usuários com conta no Google Cloud, com uma interface baseada no VSCode e oferece 5GB de espaço no diretório principal |
+>
+> <img src="https://media.tenor.com/42LC_etFIIcAAAAi/deltarune-tenna.gif" width="150px">
 
+---
 
+<br>
+
+**Cloud Infrastructure**
+-  
+
+<br><br>
+
+**Components of cloud computting**
+- 
+
+<br><br>
+
+**Containers**
+- 
+
+<br><br>
+
+**Storage Options**
+- 
+
+<br><br>
 
 </details>
 
